@@ -1,0 +1,38 @@
+creando base de datos del laravel form scraths
+
+php artisan make:controller PostsController
+php artisan make:model PostModel -m
+
+php artisan tinker | util pa agregar dats a la base de datos por el cmd
+
+
+//habilitando authentication:
+php artisan make:auth edit en laravel 8 paso a ser
+php artisan ui:auth
+
+creando migracion par aañadir propiedad a tabla
+php artisan make:migration add_user_id_to_posts
+
+php artisan make:migration add_cover_image_to_posts
+
+creando carpeta de imagenes
+php artisan storage:link
+
+subiendo laravel en hosting
+
+
+subir proyect a hosting google:::
+https://www.youtube.com/watch?v=KCWGJV3x1Rs
+subir proyecto a github
+en google clouf
+crear cloud run
+seleccionar tu repositorio de github y asi lo subis
+
+si haces cambio los subis a github
+
+vas a cloud run ->
+
+cloud build buscas los cambios y los subis
+
+esperas a que autoricen y listo
+

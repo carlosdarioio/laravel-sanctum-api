@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=MT-GJQIY3EU
+https://laravel.com/docs/8.x/sanctum#installation
+min 30:25 xd
+composer require laravel/sanctum
+
+crear personal acces tokens tabla
+php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+
+//pasa los dato sa adatabse
+php artisan migrate
+
+min 38:50
+//creando controller de Auth
+php artisan make:controller AuthController
+
+x aqui  vas !!
+https://www.youtube.com/watch?v=AL8PCThJ9c4&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=12
