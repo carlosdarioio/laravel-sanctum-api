@@ -36,3 +36,13 @@ cloud build buscas los cambios y los subis
 
 esperas a que autoricen y listo
 
+mysql datos
+34.134.102.136
+Id d einstancia
+gryuju2021sps
+clave
+u91tqZpNSZALMs
+
+usuario
+root
+clave: GRTecno.2021
